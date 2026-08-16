@@ -1,4 +1,4 @@
-// Common validation utility functions
+// Common validation utility functionss
 
 export function isValidEmail(email) {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
